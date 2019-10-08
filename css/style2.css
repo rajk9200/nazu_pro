@@ -1,0 +1,103 @@
+
+.top{
+    background-color: #282828;
+    padding:10px 0px;
+    padding:10px 0px;
+    position: relative;
+    
+}
+.proimg{
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+}
+.profile_pic{
+    float: right;
+    position: relative;
+    
+}
+.num{
+    position: absolute;
+    padding: 5px;
+    background: #e00101;
+    /* width: 10px; */
+    height: 20px;
+    /* top: 5px; */
+    right: 22px;
+    bottom: 2px;
+    z-index: 2;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+.dropdown-icon{
+    position: absolute;
+    top: 3px;
+    padding: 8px 0px;
+    
+}
+
+.dropdown-icon img{
+    
+  width: 31px
+        
+}
+.top ul{
+    width: 50%;
+    margin: auto;
+    
+}
+
+.top ul li{
+
+    float: left;
+    margin: 0px 10%;
+    list-style: none;
+    
+    
+    
+}
+
+ .no-padding{
+    padding:0px;
+    margin:0px;
+    }
+
+.order-list{
+        background: #ffffff;
+        box-shadow: 2px 8px 4px;
+        border-radius: 8px;
+        margin-top: 19px;
+}
+
+.order-details{
+    padding: 10px 6%;
+    border-right: solid 1px #ddd;
+}
+.time{
+    font-family:Cairo-Extralight;
+    
+}
+
+.desc{
+    font-family: Cairo-light;
+    margin: 5px 0px;
+    
+}
+
+#order-kart{
+	background: #f6f6f6;
+    margin-top: 3%;
+    border-radius: 10px;
+    box-shadow: 1px 5px 3px 0px;
+	
+}
+.o-title{
+	
+	background:#fff !important;
+	float:left;
+	width:100%;
+	padding:10px;
+}
